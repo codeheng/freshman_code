@@ -1,0 +1,27 @@
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.pdb
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.xml
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Resources.resources
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.exe
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.xml
+C:\Users\13564\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.pdb
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.xml
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\bin\Debug\calculator.xml
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Resources.resources
+D:\文档\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.exe
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.xml
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.pdb
+E:\vb.net\calculator1\calculator\bin\Debug\calculator.exe
+E:\vb.net\calculator1\calculator\bin\Debug\calculator.pdb
+E:\vb.net\calculator1\calculator\bin\Debug\calculator.xml
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.Form1.resources
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.Resources.resources
+E:\vb.net\calculator1\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache

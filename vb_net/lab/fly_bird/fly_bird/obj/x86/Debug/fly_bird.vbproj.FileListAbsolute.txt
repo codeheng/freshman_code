@@ -1,0 +1,18 @@
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\bin\Debug\fly_bird.exe
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\bin\Debug\fly_bird.pdb
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\bin\Debug\fly_bird.xml
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.Form1.resources
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.Resources.resources
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.vbproj.GenerateResource.Cache
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.exe
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.xml
+d:\文档\visual studio 2010\Projects\fly_bird\fly_bird\obj\x86\Debug\fly_bird.pdb
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.exe
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.xml
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.pdb
+E:\vb.net\lab\fly_bird\fly_bird\bin\Debug\fly_bird.exe
+E:\vb.net\lab\fly_bird\fly_bird\bin\Debug\fly_bird.pdb
+E:\vb.net\lab\fly_bird\fly_bird\bin\Debug\fly_bird.xml
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.Form1.resources
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.Resources.resources
+E:\vb.net\lab\fly_bird\fly_bird\obj\x86\Debug\fly_bird.vbproj.GenerateResource.Cache

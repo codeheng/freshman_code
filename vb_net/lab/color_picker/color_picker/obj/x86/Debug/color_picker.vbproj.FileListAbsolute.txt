@@ -1,0 +1,11 @@
+E:\vb.net\lab\color_picker\color_picker\bin\Debug\color_picker.exe
+E:\vb.net\lab\color_picker\color_picker\bin\Debug\color_picker.pdb
+E:\vb.net\lab\color_picker\color_picker\bin\Debug\color_picker.xml
+E:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.Resources.resources
+E:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.vbproj.GenerateResource.Cache
+E:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.exe
+E:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.xml
+E:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.pdb
+G:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.exe
+G:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.xml
+G:\vb.net\lab\color_picker\color_picker\obj\x86\Debug\color_picker.pdb

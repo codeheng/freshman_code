@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sel_courses", "sel_courses.vbproj", "{F31FA95D-1A60-476D-B7EE-0402CC677AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31FA95D-1A60-476D-B7EE-0402CC677AFC}.Debug|x86.ActiveCfg = Debug|x86
+		{F31FA95D-1A60-476D-B7EE-0402CC677AFC}.Debug|x86.Build.0 = Debug|x86
+		{F31FA95D-1A60-476D-B7EE-0402CC677AFC}.Release|x86.ActiveCfg = Release|x86
+		{F31FA95D-1A60-476D-B7EE-0402CC677AFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
